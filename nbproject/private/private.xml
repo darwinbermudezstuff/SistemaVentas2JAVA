@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Volumes/Jp/Proyectos/SistemaVentas/web/Principal.xhtml</file>
+            <file>file:/Volumes/Jp/Proyectos/SistemaVentas/web/index.xhtml</file>
+            <file>file:/Volumes/Jp/Proyectos/SistemaVentas/src/java/net/sistemaventas/controller/Sesion.java</file>
+            <file>file:/Volumes/Jp/Proyectos/SistemaVentas/src/java/net/sistemaventas/entidades/Usuarios.java</file>
+            <file>file:/Volumes/Jp/Proyectos/SistemaVentas/src/java/net/sistemaventas/ejbs/Busquedas.java</file>
+            <file>file:/Volumes/Jp/Proyectos/SistemaVentas/src/java/net/sistemaventas/controller/MenuController.java</file>
+            <file>file:/Volumes/Jp/Proyectos/SistemaVentas/web/WEB-INF/menu.xhtml</file>
+            <file>file:/Volumes/Jp/Proyectos/SistemaVentas/src/java/net/sistemaventas/entidades/Perfiles.java</file>
+            <file>file:/Volumes/Jp/Proyectos/SistemaVentas/src/java/net/sistemaventas/controller/Login.java</file>
+            <file>file:/Volumes/Jp/Proyectos/SistemaVentas/web/WEB-INF/template.xhtml</file>
+            <file>file:/Volumes/Jp/Proyectos/SistemaVentas/web/login.xhtml</file>
+            <file>file:/Volumes/Jp/Proyectos/SistemaVentas/web/resources/css/cssLayout.css</file>
+            <file>file:/Volumes/Jp/Proyectos/SistemaVentas/src/java/net/sistemaventas/entidades/Menu.java</file>
+        </group>
+    </open-files>
+</project-private>

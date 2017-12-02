@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="SistemaVentasPU" transaction-type="JTA">
+    <jta-data-source>java:app/jdbc/sistemaventas</jta-data-source>
+    <class>net.sistemaventas.entidades.Clientes</class>
+    <class>net.sistemaventas.entidades.Corrfiscal</class>
+    <class>net.sistemaventas.entidades.Ingresos</class>
+    <class>net.sistemaventas.entidades.Inventario</class>
+    <class>net.sistemaventas.entidades.Kardex</class>
+    <class>net.sistemaventas.entidades.Menu</class>
+    <class>net.sistemaventas.entidades.Perfiles</class>
+    <class>net.sistemaventas.entidades.Productos</class>
+    <class>net.sistemaventas.entidades.Usuarios</class>
+    <class>net.sistemaventas.entidades.Ventas</class>
+    <class>net.sistemaventas.entidades.Ventasdeta</class>
+    <exclude-unlisted-classes>true</exclude-unlisted-classes>
+    <shared-cache-mode>NONE</shared-cache-mode>
+    <properties>
+      <property name="eclipselink.logging.level.sql" value="FINE"/>
+      <property name="eclipselink.logging.parameters" value="true"/>
+      <property name="eclipselink.query-results-cache" value="false"/>
+    </properties>
+  </persistence-unit>
+</persistence>
